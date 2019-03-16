@@ -7,7 +7,7 @@ public class komis {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Komis samochodowy");
+        System.out.println("Komis samochodowy!");
         System.out.println("Wybór '1': Dodanie nowego samochodu");
         System.out.println("Wybór '2': Wyświetlanie listy samochodów");
         System.out.println("Wybór '3': Usuwanie wprowadzonych samochodów");
