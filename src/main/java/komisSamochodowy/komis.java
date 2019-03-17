@@ -48,7 +48,7 @@ public class komis {
                         break;
                 }
             } else
-                System.out.println("cos jest nie tak: ");
+                System.out.println("cos jest nie tak!: ");
         } while (wybor < 1 || wybor > 1);
 
     }
