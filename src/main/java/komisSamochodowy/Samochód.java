@@ -47,4 +47,15 @@ public class Samochód {
     public void setYearbook(int yearbook) {
         this.yearbook = yearbook;
     }
+
+    @Override
+    public String toString() {
+        return "Samochód{" +
+                "colour='" + colour + '\'' +
+                ", price=" + price +
+                ", door=" + door +
+                ", mark='" + mark + '\'' +
+                ", yearbook=" + yearbook +
+                '}';
+    }
 }
